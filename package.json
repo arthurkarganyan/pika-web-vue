@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "postinstall": "npx @pika/web",
     "prepare": "pika-web --clean",
     "start": "serve ./"
   },
