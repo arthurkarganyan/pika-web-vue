@@ -9,7 +9,7 @@
     "serve": "^10.1.2"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "http-vue-loader": "^1.4.0",
     "vue": "^2.6.10",
     "vue-router": "^3.1.3"
